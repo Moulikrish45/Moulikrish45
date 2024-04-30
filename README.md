@@ -8,7 +8,6 @@ I'm a tech enthusiast with a knack for innovation and a passion for leveraging t
 - 🏆 I've had the privilege of participating in prestigious hackathons and competitions.
 - 💬 Whether it's discussing Python programming, diving deep into machine learning concepts, brainstorming UI design ideas, or exploring the world of game development, I'm always up for engaging conversations and knowledge-sharing.
 - 📫 Want to connect or collaborate? Feel free to reach out to me via email at moulikd345@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/mouli-krishnan-bai/).
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: When I'm not coding, you can find me exploring new cuisines, embarking on outdoor adventures, or immersing myself in a captivating book.
 
 Thanks for stopping by! Let's connect and create something extraordinary together! 🚀✨
